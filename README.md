@@ -10,5 +10,5 @@ scikit-learn<br>
 python main.py<br>
 
 ## arguments<br>
-negative_mean: 'random' or 'aa' ways for choosing negative samples<br>
-area: if choose 'aa' as negatve mean, 'area' denotes the t-hop of neighborhood<br>
+negative_mean: 'R','S','A' are ways for choosing negative samples<br>
+
